@@ -1,8 +1,8 @@
 // https://blog.campvanilla.com/reactjs-dropdown-menus-b6e06ae3a8fe
 import React, { Component } from 'react';
-// import './App.css';
+import './form.css';
 
-class App extends Component {
+class Form extends Component {
 	constructor() {
 		super();
 
@@ -63,4 +63,4 @@ class App extends Component {
 	}
 }
 
-export default App;
+export default Form;
